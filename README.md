@@ -203,4 +203,5 @@ In this project, we have measured the progress of research under machine learnin
     - LinkedIn: [Profile](linkedin.com/in/muhammad-imran-zaman)
     - Google Scholar: [Profile](https://scholar.google.com/citations?user=ulVFpy8AAAAJ&hl=en)
     - YouTube: [Channel](https://www.youtube.com/@consolioo)
+    - HuggingFace: [Profile](https://huggingface.co/ImranzamanML)
 - **Project Repository**: [GitHub Repo](https://github.com/Imran-ml/A-Comprehensive-Notebook-on-Fake-News-Prediction.git)
